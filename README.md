@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=282626C9&vCenter=true&width=600&lines=Hi%2C+I'm+Sumit+Maurya+%F0%9F%91%8B;Engineer+by+Degree%2C+Developer+by+Curiosity;Breaking+Things.+Building+Things.+Learning.;Always+Learning.+Always+Building.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-I'm a Mechanical Engineering student at NIT Bhopal who loves exploring technology beyond my core branch.<br><br>I'm currently learning **web development and programming**, while exploring areas like ** AI, and hardware**. I enjoy building practical projects, experimenting with new technologies, and turning ideas into something people can actually use.<br><br>🚀 Always learning. Always building. Always curious.<br>
+I'm a Mechanical Engineering student at NIT Bhopal who loves exploring technology beyond my core branch.<br><br>I'm currently learning **web development and programming**, while exploring areas like **AI and hardware**. I enjoy building practical projects, experimenting with new technologies, and turning ideas into something people can actually use.<br><br>🚀 Always learning. Always building. Always curious.<br>
 
 
 ## 🌐 Socials:
